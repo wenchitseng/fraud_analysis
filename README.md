@@ -45,12 +45,13 @@ The result of the Age Group 0 is a bit different from the rest. However, Age Gro
 Search for specific words that are suspicious or appeared in previous fraud cases. This techniques can be utilized in textual data such as emails, transaction descriptions, employee notes, insurance claim ,etc.
 
 ## Text Mining
-  1. Import **nltk** packages 
-  2. Define **stop words, punctuation, and lemmaizer to convert words to base or root.**
-  3. Clean textual data
-  4. Run **Latent Dirichlet Allocation (LDA)** topic model (Here we use **gensim**)
-     Here, we give each word a unique ID and its frquency in each document.
-  5. Decide number of topic and sort the top 5 topic
+  1. Import NLTK Ppackages for text preprocessing
+  2. Define **stop words, punctuation, and lemmaizer**
+  3. Clean textual data based on previous step
+  4. Run **Latent Dirichlet Allocation (LDA)** topic model
+     - use **gensim**)
+     - This step assigns each word a unique ID and calculate its frequency in each document
+  6. Decide Number of Topics and Extract Top 5 Words for Each Topic
 
    <img width="686" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/2c25aa67-0df3-4600-911e-eaa08a3086e0">
 
