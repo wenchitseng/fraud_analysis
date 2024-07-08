@@ -56,7 +56,8 @@ Search for specific words that are suspicious or appeared in previous fraud case
      - This step assigns each word a unique ID and calculate its frequency in each document
   6. Decide Number of Topics and Extract Top 5 Words for Each Topic
 
-   <img width="686" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/2c25aa67-0df3-4600-911e-eaa08a3086e0">
+     <img width="1197" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/1bcf6607-5157-4ea2-acc4-cf6d9c9ce331">
+
 
   7. Observe if there is an unusual topic that need further investigation
 
