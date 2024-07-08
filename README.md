@@ -2,15 +2,18 @@
 This is a side project aimed at catching fraud using clustering and text mining. 
 
 # Introduction
-### Datasource: https://www.kaggle.com/datasets/ealaxi/banksim1
+### Datasource: 
+- Source 1- banksim: https://www.kaggle.com/datasets/ealaxi/banksim1
 <img width="350" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/6cf11f65-fc08-4cb0-bd15-9d3ee413898c">
-
 
 ** Original paper
 Lopez-Rojas, Edgar Alonso ; Axelsson, Stefan  
 Banksim: A bank payments simulator for fraud detection research Inproceedings  
 26th European Modeling and Simulation Symposium, EMSS 2014, Bordeaux, France, pp. 144–152, Dime University of Genoa, 2014, ISBN: 9788897999324.  
-https://www.researchgate.net/publication/265736405_BankSim_A_Bank_Payment_Simulation_for_Fraud_Detection_Research
+https://www.researchgate.net/publication/265736405_BankSim_A_Bank_Payment_Simulation_for_Fraud_Detection_Research  
+
+- Source 2- enron email: https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
+
 
 
 # Fraud Analysis: Simple Statistic
