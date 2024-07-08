@@ -12,12 +12,12 @@ Banksim: A bank payments simulator for fraud detection research Inproceedings
 https://www.researchgate.net/publication/265736405_BankSim_A_Bank_Payment_Simulation_for_Fraud_Detection_Research
 
 # Fraud Analysis: Simple Statistic
-- Group by category  
-**Based on the results, the majority of fraud is observed in travel, leisure, and sports-related transactions.**
+## Group by category  
+Based on the results, the majority of fraud is observed in travel, leisure, and sports-related transactions.
   <img width="307" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/c9343a9e-2063-40fa-9c8c-783c9bce9040">
 
-- Group by age  
-**The result of the Age Group 0 is a bit different from the rest. However, Age Group 0 only has 40 cases in the entire dataset, making it not feasible to split these out into a separate group and run the model on that amount of observations.**
+## Group by age  
+The result of the Age Group 0 is a bit different from the rest. However, Age Group 0 only has 40 cases in the entire dataset, making it not feasible to split these out into a separate group and run the model on that amount of observations.
   <img width="188" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/ac324f92-4687-498b-a219-ddf2f3d920c9"> <img width="86" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/988d6382-a0ad-4588-ade9-3d538141a06b">
 
 # Fraud Analysis: Clustering 
