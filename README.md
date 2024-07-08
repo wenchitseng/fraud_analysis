@@ -40,6 +40,22 @@ The result of the Age Group 0 is a bit different from the rest. However, Age Gro
 
      <img width="500" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/3b0a2112-ba89-4931-bf32-f08f8c21ff92">
 
+# Fraud Analysis: Text Data
+## Word Search
+Search for specific words that are suspicious or appeared in previous fraud cases. This techniques can be utilized in textual data such as emails, transaction descriptions, employee notes, insurance claim ,etc.
+
+## Text Mining
+  1. Import **nltk** packages 
+  2. Define **stop words, punctuation, and lemmaizer to convert words to base or root.**
+  3. Clean textual data
+  4. Run **Latent Dirichlet Allocation (LDA)** topic model (Here we use **gensim**)
+     Here, we give each word a unique ID and its frquency in each document.
+  5. Decide number of topic and sort the top 5 topic
+
+   <img width="686" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/2c25aa67-0df3-4600-911e-eaa08a3086e0">
+
+     
+
 
 
 
