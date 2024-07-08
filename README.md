@@ -5,6 +5,7 @@ This is a side project aimed at analyzing fraud and risk using diverse technique
 ### Datasource: https://www.kaggle.com/datasets/ealaxi/banksim1
 <img width="350" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/6cf11f65-fc08-4cb0-bd15-9d3ee413898c">
 
+
 ** Original paper
 Lopez-Rojas, Edgar Alonso ; Axelsson, Stefan  
 Banksim: A bank payments simulator for fraud detection research Inproceedings  
@@ -30,7 +31,8 @@ The result of the Age Group 0 is a bit different from the rest. However, Age Gro
 
   3. Prediction: Fit the KMeans model on existing data and define a cutoff point for fraud when new data is introduced.
     (Here, exceeding the 85th percentile of the distances to the cluster centroids is considered as potential fraud.)
-       <img width="700" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/a0268cc3-d07e-43c2-a498-430f4f3c5a61">
+
+     <img width="700" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/a0268cc3-d07e-43c2-a498-430f4f3c5a61">
 
 
   5. Perform an ROC plot to check the model accuracy
