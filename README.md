@@ -14,7 +14,7 @@ This is a side project aimed at catching fraud using clustering and text mining.
 
 
 
-# Fraud Analysis: Simple Statistic
+# ⓵ Fraud Analysis: Simple Statistic
 ## Group by category  
 Based on the results, the majority of fraud is observed in travel, leisure, and sports-related transactions.
 
@@ -25,7 +25,7 @@ The result of the Age Group 0 is a bit different from the rest. However, Age Gro
 
 <img width="188" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/ac324f92-4687-498b-a219-ddf2f3d920c9"> <img width="86" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/988d6382-a0ad-4588-ade9-3d538141a06b">
 
-# ⓵ Fraud Analysis: Clustering 
+# ⓶ Fraud Analysis: Clustering 
 ## KMeans Clustering
   1. Run **MiniBatch** Kmeans over the number of clusters
   2. Use **Elbow method** to find the optimal number of clusters (2 clusters based on the plot)
@@ -41,11 +41,11 @@ The result of the Age Group 0 is a bit different from the rest. However, Age Gro
 
      <img width="500" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/3b0a2112-ba89-4931-bf32-f08f8c21ff92">
 
-# ⓶ Fraud Analysis: Text Data
+# ⓷ Fraud Analysis: Text Data
 ## Word Search
 Search for specific words that are suspicious or appeared in previous fraud cases. This technique can be utilized in textual data such as emails, transaction descriptions, employee notes, insurance claims, etc.
 
-## ⓷ Text Mining
+## Text Mining
   1. Import NLTK packages for text preprocessing
   2. Define **stop words, punctuation, and lemmatizer**
   3. Clean textual data based on the previous step
