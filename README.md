@@ -1,5 +1,5 @@
 # Fraud Analysis
-This is a side project aimed at analyzing fraud and risk using diverse techniques, including clustering and text mining. 
+This is a side project aimed at catching fraud using clustering and text mining. 
 
 # Introduction
 ### Datasource: https://www.kaggle.com/datasets/ealaxi/banksim1
