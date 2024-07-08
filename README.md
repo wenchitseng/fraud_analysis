@@ -49,11 +49,13 @@ Search for specific words that are suspicious or appeared in previous fraud case
   2. Define **stop words, punctuation, and lemmaizer**
   3. Clean textual data based on previous step
   4. Run **Latent Dirichlet Allocation (LDA)** topic model
-     - use **gensim**)
+     - use **gensim**
      - This step assigns each word a unique ID and calculate its frequency in each document
   6. Decide Number of Topics and Extract Top 5 Words for Each Topic
 
    <img width="686" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/2c25aa67-0df3-4600-911e-eaa08a3086e0">
+
+  7. Observe if there is an unusual topic that need further investigation
 
      
 
