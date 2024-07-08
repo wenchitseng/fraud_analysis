@@ -48,6 +48,9 @@ Search for specific words that are suspicious or appeared in previous fraud case
   1. Import NLTK Ppackages for text preprocessing
   2. Define **stop words, punctuation, and lemmaizer**
   3. Clean textual data based on previous step
+     
+     <img width="900" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/c4956c58-1b54-4036-b53f-137aee2ff429">
+
   4. Run **Latent Dirichlet Allocation (LDA)** topic model
      - use **gensim**
      - This step assigns each word a unique ID and calculate its frequency in each document
