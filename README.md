@@ -27,11 +27,11 @@ https://www.researchgate.net/publication/265736405_BankSim_A_Bank_Payment_Simula
      <img width="500" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/87c20602-df45-4fcb-a026-5f0c354a487d">
 
   3. Prediction: Fit the KMeans model on existing data and define a cutoff point for fraud when new data is introduced.
-     (Here, exceeding the 85th percentile of the distances to the cluster centroids is considered as potential fraud.)
+    (Here, exceeding the 85th percentile of the distances to the cluster centroids is considered as potential fraud.)
        <img width="700" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/a0268cc3-d07e-43c2-a498-430f4f3c5a61">
 
 
-  4. Perform ROC plot to check the modle accuracy
+  5. Perform ROC plot to check the modle accuracy
 
      <img width="500" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/3b0a2112-ba89-4931-bf32-f08f8c21ff92">
 
