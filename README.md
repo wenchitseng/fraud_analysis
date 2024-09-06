@@ -16,7 +16,7 @@ This is a side project aimed at catching fraud using clustering and text mining.
 
 # ⓵ Fraud Analysis: Simple Statistic
 ## Group by category  
-Based on the results, the majority of fraud is observed in travel, leisure, and sports-related transactions.
+Based on the probability in the "fraud" column, the majority of fraud is observed in travel, leisure, and sports-related transactions.
 
 <img width="307" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/c9343a9e-2063-40fa-9c8c-783c9bce9040">
 
