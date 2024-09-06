@@ -4,6 +4,7 @@ This is a side project aimed at catching fraud using clustering and text mining.
 # Introduction
 ### Datasource: 
 - Source 1- banksim: https://www.kaggle.com/datasets/ealaxi/banksim1
+  (class 0: Not a fraud; class 1: a fraud)
 
   <img width="350" alt="image" src="https://github.com/wenchitseng/fraud_analysis/assets/145182368/6cf11f65-fc08-4cb0-bd15-9d3ee413898c">
 
